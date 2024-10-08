@@ -1,0 +1,9 @@
+# User Story
+
+/**
+     *As an HR administrator, I want to log into the OrangeHRM system and navigate to the Recruitment page to add a new candidate.
+     *After adding the candidate, I need to ensure that the entered details are correct and the candidate's status is set to "Hired"
+     *upon successful submission.
+*/
+
+
